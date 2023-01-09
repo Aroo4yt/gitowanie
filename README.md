@@ -1,0 +1,2 @@
+# gitowanie
+sztywniutko dla gitow
